@@ -1,17 +1,17 @@
 
 # Hi there, I'm Alisson Fabricio <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-#### My name is Alisson Fabricio, I'm 18 years old and I'm finishing the high school that I do with technical education, I do IT, but what I really like is web development. I have experience with some small personal projects with the JavaScript stack, and I am looking to deepen my knowledge in this ecosystem. 
+#### My name is Alisson Fabricio, I'm 18 years old and I've just finished high school with technical education, in this case IT, but what I really like is web development. I have experience with some small personal projects with the JavaScript stack, and I am looking to deepen my knowledge in this ecosystem.
 
-#### I want to be the best, I want my story to be the motivation for many, I want to show the world that even the most humble can win and get where they want! of course it all depends on you, and u come with me on this long journey?
+#### I want to be the best, I want my story to be the motivation for many, I want to show the world that even the most humble can win and get where they want! of course it all depends on me, and u come with me on this long journey?
 
 ##
 
 ### Olá, Sou Alisson Fabricio
 
-#### Me chamo Alisson Fabricio, tenho 18 anos e estou terminando o ensino medio que faço junto ao ensino técnico, faço TI, mas gosto mesmo é de desenvolviemento web. Tenho experiencia com alguns pequenos projetos pessoais com a stack JavaScript, e estou buscando aprofundar meus conhecimentos neste ecossistema.
+#### Me chamo Alisson Fabricio, tenho 18 anos e acabei de terminar o ensino medio junto ao ensino técnico, no caso TI, mas gosto mesmo é de desenvolviemento web. Tenho experiencia com alguns pequenos projetos pessoais com a stack JavaScript, e estou buscando aprofundar meus conhecimentos neste ecossistema.
 
-#### Quero ser o melhor, quero que minha historia seja a motivação de muitos, quero mostrar ao mundo que mesmo os mais humildes podem vencer e chegar aonde quiser! claro que isso tudo só depende de você, eai vem comigo nesta longa jornada?
+#### Quero ser o melhor, quero que minha historia seja a motivação de muitos, quero mostrar ao mundo que mesmo os mais humildes podem vencer e chegar aonde quiser! claro que isso tudo só depende de mim, eai vem comigo nesta longa jornada?
 
 ##
 
@@ -23,7 +23,8 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/alissonFabricio04">
+  <a href="https://github.com/alissonFabricio04">[Uploading 68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656163742d6f726967696e616c2d776f72646d61726b2e737667.svg…]()
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonFabricio04&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonFabricio04&layout=compact&langs_count=7&theme=radical"/>
 </div>

@@ -23,8 +23,7 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/alissonFabricio04">[Uploading 68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656163742d6f726967696e616c2d776f72646d61726b2e737667.svg…]()
-
+  <a href="https://github.com/alissonFabricio04">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonFabricio04&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonFabricio04&layout=compact&langs_count=7&theme=radical"/>
 </div>

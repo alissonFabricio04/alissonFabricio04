@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working with ReactJs, NodeJs with Express, PHP (almost always pure, but sometimes with Laravel) and Docker, but I'm still training
 
-- 🌱 I’m currently learning Docker, SOLID, DDD
+- 🌱 I’m currently learning Docker, SOLID with Clean Architecture
 
 - 📫 How to reach me: alissonfabricio04@gmail.com
 

@@ -1,15 +1,50 @@
 
-# Hi there, I'm Alisson Fabricio <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# Meu nome é Alisson Fabricio <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-#### My name is Alisson Fabricio, I'm 19 years old
+### AFIRMAÇÃO PESSOAL
+Atuando como desenvolvedor desde de 2021, já realizei dezenas de projetos, desde pessoais à profissionais, em um desses projetos fiz com que aumentasse a visibilidade sobre sistemas fotovoltaicos através de uma Landing Page. Sempre preocupado com sustentabilidade de um software e experiência do usuário.
+
+### EXPERIÊNCIA DE TRABALHO
+Estágio em desenvolvimento de software
+em Safety Soluções e Projetos <br />
+Fevereiro 2022 - Presente
+
+ - Safety é uma empresa que presta serviços de consultoria e gerenciamento de projetos utilizando o Triângulo de Ferro, uma metodologia criada originalmente para otimização de processos de projetos internos. 
+ 
+ - Tenho trabalhado com a equipe de desenvolvimento e soluções, desenvolvendo novas funcionalidades e acompanhando essas funcionalidades para mapear e resolver eventuais bugs.
+
+ - Migrando a arquitetura de MVC para Rest, utilizando conceitos de separação de responsabilidades, SOLID, Programação Orientada a Objetos com Laravel, e utilização de testes de unidade para a API em NodeJS. 
+
+ - Tive a oportunidade de construir uma loja virtual usando Wordpress, sendo a funcionalidade mais desafiadora um dos métodos de pagamento, créditos presentes em sua carteira virtual que se encontra em outro sistema.
+
+ - Criação de Webhooks para receber dados oriundos de Gateways de pagamento, como Stripe, Square, CambioReal.
+ 
+### EDUCAÇÃO
+
+- Bacharel em Ciência da computação <br />
+Universidade São Judas Tadeu <br />
+Agosto 2022 - Presente <br />
+
+- Bacharel em Engenharia de Software - incompleto <br />
+Universidade Norte do Paraná <br />
+Fevereiro 2022 - Agosto 2022 <br />
+
+### OUTROS PROJETOS
+
+#### Desenvolvedor <br />
+M&R Solis | Junho 2021 - Julho 2021 <br />
+
+Empresa integradora especializada em instalações de sistema de energia solar fotovoltaica e instalações elétricas comerciais e residenciais com missão de redução de gases de efeitos estufa. Primeiro projetos que foi à produção, feito durante o ensino médio, aproveitando conceitos vistos no mesmo.
+
+
 
 ##
 
-- 🔭 I’m currently working with ReactJS, NodeJS with ExpressJS, PHP (almost always pure, but sometimes with Laravel) and Docker, but I'm still training
+- 🔭 Atualmente estou trabalhando com ReactJS, NodeJS com ExpressJS, PHP (quase sempre puro, mas as vezes com Laravel) e Docker, mas ainda estou treinando
 
-- 🌱 I’m currently learning Docker, SOLID with Clean Architecture
+- 🌱 Atualmente estou aprendendo Docker, SOLID com Clean Architecture
 
-- 📫 How to reach me: alissonfabricio.dev@gmail.com
+- 📫 Como chegar até mim: alissonfabricio.dev@gmail.com
 
 ##
 

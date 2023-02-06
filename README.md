@@ -2,7 +2,7 @@
 # Meu nome é Alisson Fabricio <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 ### AFIRMAÇÃO PESSOAL
-Atuando como desenvolvedor desde de 2021, já realizei dezenas de projetos, desde pessoais à profissionais, em um desses projetos fiz com que aumentasse a visibilidade sobre sistemas fotovoltaicos através de uma Landing Page. Sempre preocupado com sustentabilidade de um software e experiência do usuário.
+Atuando como desenvolvedor desde de 2021, já realizei dezenas de projetos, desde pessoais à profissionais.
 
 ### EXPERIÊNCIA DE TRABALHO
 Estágio em desenvolvimento de software

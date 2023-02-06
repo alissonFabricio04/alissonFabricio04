@@ -6,15 +6,11 @@ Estágio em desenvolvimento de software
 em Safety Soluções e Projetos <br />
 Fevereiro 2022 - Presente
 
- - Experiência na construção de API’s em NodeJS seguindo boas práticas de programação, como SOLID, e diversos conceitos de Clean Architecture e Domain Driven Design utilizando Typescript.
- - Breve experiência na criação de testes unitários com Jest para API’s.
- - Experiência na usabilidade de sistemas operacionais Linux, especialmente com Ubuntu.
- - Breve experiência com Docker.
- - Construção de interfaces interativas com ReactJS e Tailwind CSS, além de Bootstrap
- - Breve experiência com framework Laravel
- - Experiências com trabalho em equipe;
- - Facilidade no relacionamento com usuários/clientes.
- - Organização e foco na entrega de resultados com qualidade
+ - Experiência na construção de API’s em NodeJS seguindo boas práticas de programação, como SOLID utilizando Typescript;
+ - Breve experiência na criação de testes unitários com Jest para API’s;
+ - Experiência na usabilidade de sistemas operacionais Linux, especialmente com Ubuntu;
+ - Construção de interfaces interativas com ReactJS e Tailwind CSS, além de Bootstrap;
+ - Breve experiência com framework Laravel;
  
 ### EDUCAÇÃO
 
@@ -32,12 +28,6 @@ Fevereiro 2022 - Agosto 2022 <br />
 M&R Solis | Junho 2021 - Julho 2021 <br />
 
 Empresa integradora especializada em instalações de sistema de energia solar fotovoltaica e instalações elétricas comerciais e residenciais com missão de redução de gases de efeitos estufa. Primeiro projetos que foi à produção, feito durante o ensino médio, aproveitando conceitos vistos no mesmo.
-
-##
-
-- 📫 Como chegar até mim: alissonfabricio.dev@gmail.com
-
-##
 
 <div align="center">
   <a href="https://github.com/alissonFabricio04">

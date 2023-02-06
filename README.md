@@ -1,23 +1,20 @@
 
 # Meu nome é Alisson Fabricio <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-### AFIRMAÇÃO PESSOAL
-Atuando como desenvolvedor desde de 2021, já realizei dezenas de projetos, desde pessoais à profissionais.
-
 ### EXPERIÊNCIA DE TRABALHO
 Estágio em desenvolvimento de software
 em Safety Soluções e Projetos <br />
 Fevereiro 2022 - Presente
 
- - Safety é uma empresa que presta serviços de consultoria e gerenciamento de projetos utilizando o Triângulo de Ferro, uma metodologia criada originalmente para otimização de processos de projetos internos. 
- 
- - Tenho trabalhado com a equipe de desenvolvimento e soluções, desenvolvendo novas funcionalidades e acompanhando essas funcionalidades para mapear e resolver eventuais bugs.
-
- - Migrando a arquitetura de MVC para Rest, utilizando conceitos de separação de responsabilidades, SOLID, Programação Orientada a Objetos com Laravel, e utilização de testes de unidade para a API em NodeJS. 
-
- - Tive a oportunidade de construir uma loja virtual usando Wordpress, sendo a funcionalidade mais desafiadora um dos métodos de pagamento, créditos presentes em sua carteira virtual que se encontra em outro sistema.
-
- - Criação de Webhooks para receber dados oriundos de Gateways de pagamento, como Stripe, Square, CambioReal.
+ - Experiência na construção de API’s em NodeJS seguindo boas práticas de programação, como SOLID, e diversos conceitos de Clean Architecture e Domain Driven Design utilizando Typescript.
+ - Breve experiência na criação de testes unitários com Jest para API’s.
+ - Experiência na usabilidade de sistemas operacionais Linux, especialmente com Ubuntu.
+ - Breve experiência com Docker.
+ - Construção de interfaces interativas com ReactJS e Tailwind CSS, além de Bootstrap
+ - Breve experiência com framework Laravel
+ - Experiências com trabalho em equipe;
+ - Facilidade no relacionamento com usuários/clientes.
+ - Organização e foco na entrega de resultados com qualidade
  
 ### EDUCAÇÃO
 
@@ -36,13 +33,7 @@ M&R Solis | Junho 2021 - Julho 2021 <br />
 
 Empresa integradora especializada em instalações de sistema de energia solar fotovoltaica e instalações elétricas comerciais e residenciais com missão de redução de gases de efeitos estufa. Primeiro projetos que foi à produção, feito durante o ensino médio, aproveitando conceitos vistos no mesmo.
 
-
-
 ##
-
-- 🔭 Atualmente estou trabalhando com ReactJS, NodeJS com ExpressJS, PHP (quase sempre puro, mas as vezes com Laravel) e Docker, mas ainda estou treinando
-
-- 🌱 Atualmente estou aprendendo Docker, SOLID com Clean Architecture
 
 - 📫 Como chegar até mim: alissonfabricio.dev@gmail.com
 

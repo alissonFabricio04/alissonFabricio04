@@ -21,7 +21,7 @@ Julho 2022 - Presente <br />
 ### OUTROS PROJETOS
 
 #### Desenvolvedor <br />
-M&R Solis | Junho 2021 - Julho 2021 <br />
+M&R Solis | Junho 2021 - Setembro 2021 <br />
 
 Empresa integradora especializada em instalações de sistema de energia solar fotovoltaica e instalações elétricas comerciais e residenciais com missão de redução de gases de efeitos estufa. Primeiro projetos que foi à produção, feito durante o ensino médio, aproveitando conceitos vistos no mesmo.
 

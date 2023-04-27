@@ -6,21 +6,17 @@ Estágio em desenvolvimento de software
 em Safety Soluções e Projetos <br />
 Fevereiro 2022 - Presente
 
- - Experiência na construção de API’s em NodeJS seguindo boas práticas de programação, como SOLID utilizando Typescript;
- - Breve experiência na criação de testes unitários com Jest para API’s;
+ - Experiência na construção de API’s em NodeJS seguindo boas práticas de programação, como SOLID e Clean Arch utilizando Typescript;
+ - Experiência na criação de testes unitários com Jest para API’s;
  - Experiência na usabilidade de sistemas operacionais Linux, especialmente com Ubuntu;
- - Construção de interfaces interativas com ReactJS e Tailwind CSS, além de Bootstrap;
- - Breve experiência com framework Laravel;
+ - Construção de interfaces interativas com ReactJS e React Native;
+ - Experiência com framework Laravel;
  
 ### EDUCAÇÃO
 
 - Bacharel em Ciência da computação <br />
 Universidade São Judas Tadeu <br />
-Agosto 2022 - Presente <br />
-
-- Bacharel em Engenharia de Software - incompleto <br />
-Universidade Norte do Paraná <br />
-Fevereiro 2022 - Agosto 2022 <br />
+Julho 2022 - Presente <br />
 
 ### OUTROS PROJETOS
 

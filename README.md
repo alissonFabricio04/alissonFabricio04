@@ -1,37 +1,7 @@
 
 # Meu nome é Alisson Fabricio <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-### EXPERIÊNCIA DE TRABALHO
-Estágio em desenvolvimento de software
-em Safety Soluções e Projetos <br />
-Fevereiro 2022 - Presente
-
- - Experiência na construção de API’s em NodeJS seguindo boas práticas de programação, como SOLID e Clean Arch utilizando Typescript;
- - Experiência na criação de testes unitários com Jest para API’s;
- - Experiência na usabilidade de sistemas operacionais Linux, especialmente com Ubuntu;
- - Construção de interfaces interativas com ReactJS e React Native;
- - Experiência com framework Laravel;
- 
-### EDUCAÇÃO
-
-- Bacharel em Ciência da computação <br />
-Universidade São Judas Tadeu <br />
-Julho 2022 - Presente <br />
-
-### OUTROS PROJETOS
-
-#### Desenvolvedor <br />
-M&R Solis | Junho 2021 - Setembro 2021 <br />
-
-Empresa integradora especializada em instalações de sistema de energia solar fotovoltaica e instalações elétricas comerciais e residenciais com missão de redução de gases de efeitos estufa. Primeiro projetos que foi à produção, feito durante o ensino médio, aproveitando conceitos vistos no mesmo.
-
-<div align="center">
-  <a href="https://github.com/alissonFabricio04">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonFabricio04&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonFabricio04&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  
-##
+Dps eu add algo aqui
 
 <h3 align="center"> My Skill Set </h2>
   

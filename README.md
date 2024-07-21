@@ -1,58 +1,21 @@
+# Olá! Me chamo Alisson 👋
 
-# Meu nome é Alisson Fabricio <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+Sou apaixonado por tecnologia e adoro explorar diferentes áreas da computação. Programação, segurança digital e sistemas embarcados são algumas das minhas áreas favoritas.
 
-Dps eu add algo aqui
+Quando não estou codando, estou mergulhado em mangás. Sou um fã assíduo de One Piece e Evangelion, e obras como Solanin, Vitamin, Dededede e Pluto têm um lugar especial no meu coração.
 
-<h3 align="center"> My Skill Set </h2>
-  
-<table align="center"><tr><td valign="top" width="30%" align="center">
-  
- #### FrontEnd
- <div style="display: inline_block"><br> 
-  <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="55" />
-  <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="55" />
-  <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" />
-  <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="45" />
-  <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="55" />
- </div>
-  
- </td>
-   <td valign="top" width="39%" align="center">
-  
-   #### Backend 
-   <div style="display: inline_block"><br>
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" />
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="45" />
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="80" /><br />
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="ExpressJS" height="70" /><br />
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="60" />
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="Wordpress" height="50" /><br />
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="60" />
-    <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="60" /> 
-   </div>
+## Tecnologias e Ferramentas
 
-  </td>
-  <td valign="top" width="30%" align="center">
-  
-   #### DevOps
-   <div style="display: inline_block"><br>
-     <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="55" />
-     <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="55" />
-     <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60" />
-   </div>
-  </td>
- </table>
- 
- <div align="center">
-    <a href = "mailto:alissonfabricio.dev@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/alisson-fabricio-dev/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-  </div>
-  
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+Se você compartilha alguns desses interesses ou apenas quer bater um papo, sinta-se à vontade para me contatar!
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alissonFabricio04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-fabricio-dev/)

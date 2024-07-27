@@ -1,6 +1,6 @@
 # Olá! Me chamo Alisson 👋
 
-Sou apaixonado por tecnologia e adoro explorar diferentes áreas da computação. Programação, segurança digital e sistemas embarcados são algumas das minhas áreas favoritas.
+Apaixonado por tecnologia e explorador incansável das várias áreas da computação. Sou entusiasta do movimento cypherpunk e acredito no poder transformador dos sistemas descentralizados como o Bitcoin.
 
 Quando não estou codando, estou mergulhado em mangás. Sou um fã assíduo de One Piece e Evangelion, e obras como Solanin, Vitamin, Dededede e Pluto têm um lugar especial no meu coração.
 

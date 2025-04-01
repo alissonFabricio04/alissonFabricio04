@@ -1,10 +1,10 @@
 # E aí! Me chamo Alisson 👽
 
-> Gosto de meter a mão no código, quebrar umas coisas e tentar entender como tudo funciona por baixo dos panos. Curto temas como segurança, sistemas distribuídos e tudo que envolva liberdade digital.
+Gosto de meter a mão no código, quebrar umas coisas e tentar entender como tudo funciona por baixo dos panos. Curto temas como segurança, sistemas distribuídos e tudo que envolva liberdade digital.
 
 Quando não tô no terminal, tô viajando em mangás ou refletindo sobre a vida. Fã de Solanin, Vitamin, Evangelion e outras maluquices existenciais.
 
-Às vezes sumo, mas sempre volto com alguma ideia nova na cabeça.
+> Às vezes sumo, mas sempre volto com alguma ideia nova na cabeça.
 
 ## Tecnologias e Ferramentas
 

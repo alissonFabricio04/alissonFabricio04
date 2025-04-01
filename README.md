@@ -1,8 +1,10 @@
-# Olá! Me chamo Alisson 👋
+# E aí! Me chamo Alisson 👽
 
-Apaixonado por tecnologia e explorador incansável das várias áreas da computação. Sou entusiasta do movimento cypherpunk e acredito no poder transformador dos sistemas descentralizados como o Bitcoin.
+> Gosto de meter a mão no código, quebrar umas coisas e tentar entender como tudo funciona por baixo dos panos. Curto temas como segurança, sistemas distribuídos e tudo que envolva liberdade digital.
 
-Quando não estou codando, estou mergulhado em mangás. Sou um fã assíduo de One Piece e Evangelion, e obras como Solanin, Vitamin, Dededede e Pluto têm um lugar especial no meu coração.
+Quando não tô no terminal, tô viajando em mangás ou refletindo sobre a vida. Fã de Solanin, Vitamin, Evangelion e outras maluquices existenciais.
+
+Às vezes sumo, mas sempre volto com alguma ideia nova na cabeça.
 
 ## Tecnologias e Ferramentas
 
